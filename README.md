@@ -28,9 +28,9 @@ To install SelfMadeStreamer, you will need a PHP and MySQL development environme
 
 ## Technologies used
 
-- PHP
-- Laravel Framework
-- MySQL
+- PHP 8.2.0
+- Laravel Framework 9
+- MySQL 5.7.*
 - OpenAI API
 - FFmpeg
 - Instagram API
